@@ -1,0 +1,14 @@
+# Build artifacts and caches
+build/
+tmp/
+sstate-cache/
+downloads/
+deploy/
+
+# Other common Yocto exclusions
+*.log
+*.lock
+.bbfiles_cache
+.buildhistory
+.wic/
+.licenses/
