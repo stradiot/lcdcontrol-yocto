@@ -5,7 +5,7 @@ LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/MIT;md5=0835ade698e0bcf8506ecda
 
 SRC_URI = "https://github.com/stradiot/lcdcontrol-user/archive/refs/tags/v${PV}.tar.gz"
 
-SRC_URI[sha256sum] = "72927cf2497d66d9a6189d6c01ac54a806be56f06c3490190537a276047c68f6"
+SRC_URI[sha256sum] = "e90aa031b02fde7954f39cd8e0b9b535dc96693713e6b7e3d28839d8cd0c3b6a"
 
 S = "${WORKDIR}/lcdcontrol-user-${PV}"
 
